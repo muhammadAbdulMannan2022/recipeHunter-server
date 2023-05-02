@@ -1,0 +1,299 @@
+[
+  {
+    "chef_id": 1,
+    "recipe_id": 1,
+    "name": "Sushi Rolls",
+    "image_url": "https://i.ibb.co/Wxq6vj0/food-2.png",
+    "ingredients": [
+      "2 cups sushi rice",
+      "2 cups water",
+      "1/4 cup rice vinegar",
+      "2 tbsp sugar",
+      "1 tsp salt",
+      "4-6 sheets of nori",
+      "Assorted fillings (such as avocado, cucumber, crab, shrimp, or tuna)"
+    ],
+    "method": "1. Rinse the sushi rice in cold water until the water runs clear.\n2. Combine the rice and water in a saucepan and bring to a boil.\n3. Reduce heat to low and cover the pan. Simmer for 20 minutes.\n4. Remove the pan from heat and let it sit for 10 minutes.\n5. In a small bowl, combine the rice vinegar, sugar, and salt. Heat the mixture in the microwave until the sugar dissolves.\n6. Spread the cooked rice in a large, shallow dish. Pour the vinegar mixture over the rice and fold it in with a spatula.\n7. Lay a sheet of nori on a bamboo mat. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top.\n8. Arrange the fillings in a line across the center of the rice.\n9. Roll up the sushi tightly, using the bamboo mat to help you.\n10. Slice the sushi into 1-inch pieces and serve with soy sauce and wasabi.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": 2,
+    "name": "Miso Soup",
+    "image_url": "https://i.ibb.co/DfZFK6M/food-1.png",
+    "ingredients": [
+      "4 cups dashi stock",
+      "1/4 cup miso paste",
+      "1/2 block of firm tofu, cut into small cubes",
+      "2-3 green onions, sliced thinly",
+      "1 sheet of nori, cut into small strips"
+    ],
+    "method": "1. In a medium saucepan, bring the dashi stock to a boil.\n2. Reduce the heat to low and whisk in the miso paste until it is fully dissolved.\n3. Add the tofu and green onions to the soup and simmer for 2-3 minutes.\n4. Serve the soup hot, garnished with nori strips.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": 3,
+    "name": "Chicken Teriyaki",
+    "image_url": "https://i.ibb.co/Lhnbvmp/japanese-sushi-with-salmon-caviar.jpg",
+    "ingredients": [
+      "1 lb boneless, skinless chicken thighs",
+      "1/2 cup soy sauce",
+      "1/4 cup mirin",
+      "1/4 cup sake",
+      "2 tbsp brown sugar",
+      "2 cloves garlic, minced",
+      "1 inch piece of ginger, peeled and grated"
+    ],
+    "method": "1. In a small saucepan, combine the soy sauce, mirin, sake, brown sugar, garlic, and ginger. Heat the mixture over medium heat, stirring occasionally, until the sugar dissolves.\n2. Remove the pan from heat and let the sauce cool.\n3. Place the chicken thighs in a large bowl or resealable bag. Pour the cooled sauce over the chicken and let it marinate for at least 30 minutes, or up to 8 hours.\n4. Heat a grill or grill pan over medium-high heat.\n5. Remove the chicken from the marinade and pat it dry with paper towels.\n6. Grill the chicken for 5-7 minutes per side, or until the internal temperature reaches 165°F.\n7. Serve the chicken teriyaki hot, garnished with sliced green onions and sesame seeds.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": 4,
+    "name": "Tempura Shrimp",
+    "image_url": "https://i.ibb.co/s3WRrsB/mixed-sushi-rolls-plate.jpg",
+    "ingredients": [
+      "1 lb medium-sized shrimp, peeled and deveined",
+      "1 cup all-purpose flour",
+      "1/2 cup cornstarch",
+      "1 tsp baking powder",
+      "1 cup cold water",
+      "Vegetable oil, for frying"
+    ],
+    "method": "1. In a large mixing bowl, whisk together the flour, cornstarch, and baking powder.\n2. Gradually pour in the cold water, whisking constantly, until the batter is smooth.\n3. Heat about 2 inches of vegetable oil in a large, heavy-bottomed pot over medium-high heat.\n4. Dip each shrimp into the batter, shaking off any excess, and carefully place it in the hot oil.\n5. Fry the shrimp in batches for 2-3 minutes, or until the batter is golden brown and crispy.\n6. Use a slotted spoon to transfer the shrimp to a paper towel-lined plate to drain off any excess oil.\n7. Serve the tempura shrimp hot, with soy sauce for dipping.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": 5,
+    "name": "Beef Yakitori",
+    "image_url": "https://i.ibb.co/wp4JC3r/side-view-mix-sushi-rolls-tray-with-ginger-wasabi.jpg",
+    "ingredients": [
+      "1 lb flank steak, cut into 1-inch cubes",
+      "1/2 cup soy sauce",
+      "1/4 cup sake",
+      "1/4 cup mirin",
+      "2 tbsp brown sugar",
+      "2 cloves garlic, minced",
+      "1 inch piece of ginger, peeled and grated",
+      "8-10 bamboo skewers, soaked in water for at least 30 minutes"
+    ],
+    "method": "1. In a small saucepan, combine the soy sauce, sake, mirin, brown sugar, garlic, and ginger. Heat the mixture over medium heat, stirring occasionally, until the sugar dissolves.\n2. Remove the pan from heat and let the sauce cool.\n3. Thread the beef cubes onto the bamboo skewers.\n4. Heat a grill or grill pan over medium-high heat.\n5. Brush the beef skewers with the cooled sauce.\n6. Grill the skewers for 2-3 minutes per side, or until the beef is cooked to your liking.\n7. Serve the beef yakitori hot, garnished with sliced green onions and sesame seeds.",
+    "rating": 4.9
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": 6,
+    "name": "Ramen Noodles",
+    "image_url": "https://i.ibb.co/qFvxXV3/mixed-sushi-set-japanese-food.jpg",
+    "ingredients": [
+      "4 cups chicken broth",
+      "1 tbsp soy sauce",
+      "1 tbsp miso paste",
+      "1 tbsp sesame oil",
+      "1 tbsp vegetable oil",
+      "2 cloves garlic, minced",
+      "1 inch piece of ginger, peeled and grated",
+      "1/2 lb ramen noodles",
+      "Assorted toppings (such as sliced pork, boiled eggs, bamboo shoots, green onions, and nori)"
+    ],
+    "method": "1. In a large pot, heat the vegetable oil and sesame oil over medium heat.\n2. Add the garlic and ginger and sauté for 1-2 minutes, or until fragrant.\n3. Add the chicken broth, soy sauce, and miso paste to the pot and bring to a boil.\n4. Reduce the heat to low and simmer the broth for 10-15 minutes, stirring occasionally.\n5. Meanwhile, cook the ramen noodles according to the package instructions and drain.\n6. Divide the cooked noodles among 4 bowls.\n7. Ladle the hot broth over the noodles.\n8. Add assorted toppings as desired.\n9. Serve the ramen hot.",
+    "rating": 4.5
+  },
+  {
+    "recipe_id": 7,
+    "name": "Tonkatsu",
+    "image_url": "https://i.ibb.co/D51GY51/korean-food-kim-bap-steamed-rice-with-vegetables-seaweed.jpg",
+    "ingredients": [
+      "2 boneless pork chops",
+      "1/2 cup all-purpose flour",
+      "1 egg",
+      "1 cup panko breadcrumbs",
+      "1/4 cup vegetable oil",
+      "Tonkatsu sauce"
+    ],
+    "method": "1. Preheat oven to 375°F. \n2. Place pork chops between two pieces of plastic wrap and pound them to 1/4 inch thickness.\n3. Set up a breading station with three shallow dishes - one with flour, one with beaten eggs, and one with panko breadcrumbs. \n4. Dredge the pork chops in flour, shaking off any excess.\n5. Dip the pork chops in the egg, allowing any excess to drip off.\n6. Coat the pork chops in the panko breadcrumbs, pressing them onto the surface to adhere.\n7. Heat vegetable oil in a skillet over medium-high heat.\n8. Fry the pork chops for 3-4 minutes per side, or until golden brown.\n9. Transfer the pork chops to a baking sheet and bake for 10 minutes, or until cooked through.\n10. Serve hot with tonkatsu sauce for dipping.",
+    "rating": 4.7,
+    "chef_id": 2
+  },
+  {
+    "recipe_id": 8,
+    "name": "Tempura Shrimp",
+    "image_url": "https://i.ibb.co/hf0p0Mr/sushi-set-served-table.jpg",
+    "ingredients": [
+      "1 lb. large shrimp, peeled and deveined",
+      "1 cup all-purpose flour",
+      "1/4 cup cornstarch",
+      "1 tsp baking powder",
+      "1/2 tsp salt",
+      "1 egg",
+      "1 cup ice water",
+      "Vegetable oil, for frying",
+      "Tempura dipping sauce"
+    ],
+    "method": "1. Heat vegetable oil in a deep skillet over medium-high heat.\n2. In a large mixing bowl, whisk together flour, cornstarch, baking powder, and salt.\n3. In a separate bowl, whisk together egg and ice water.\n4. Combine wet is just barely combined.\n5. Dip shrimp in batter and gently drop into hot oil, a few at a time.\n6. Fry for 2-3 minutes or until golden brown, turning occasionally.\n7. Drain on paper towels.\n8. Serve hot with tempura dipping sauce.",
+    "rating": 4.5,
+    "chef_id": 2
+  },
+  {
+    "recipe_id": 9,
+    "name": "Chicken Teriyaki",
+    "image_url": "https://i.ibb.co/wp4JC3r/side-view-mix-sushi-rolls-tray-with-ginger-wasabi.jpg",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts",
+      "1/2 cup soy sauce",
+      "1/2 cup mirin",
+      "1/4 cup sake",
+      "2 tbsp honey",
+      "2 cloves garlic, minced",
+      "1 tsp grated ginger",
+      "1 tbsp cornstarch",
+      "1 tbsp water",
+      "2 green onions, thinly sliced"
+    ],
+    "method": "1. In a large mixing bowl, whisk together soy sauce, mirin, sake, honey, garlic, and ginger.\n2. Add chicken breasts to the bowl and marinate in the refrigerator for at least 30 minutes, up to 2 hours.\n3. Preheat oven to 375°F.\n4. Heat a large skillet over medium-high heat and add chicken breasts. Discard the marinade.\n5. Cook chicken breasts for 5-6 minutes per side or until browned and cooked through.\n6. Transfer chicken to a baking dish and bake for 10 minutes.\n7. Meanwhile, whisk together cornstarch and water in a small bowl.\n8. In the same skillet, add the remaining marinade and bring to a boil.\n9. Reduce heat and stir in cornstarch mixture.\n10. Simmer for 2-3 minutes or until thickened.\n11. Pour sauce over chicken and sprinkle with green onions before serving.",
+    "rating": 4.8,
+    "chef_id": 3
+  },
+  {
+    "recipe_id": 10,
+    "name": "Soba Noodle Salad",
+    "image_url": "https://i.ibb.co/qFvxXV3/mixed-sushi-set-japanese-food.jpg",
+    "ingredients": [
+      "8 oz soba noodles",
+      "2 cups shredded napa cabbage",
+      "1 cup shredded carrots",
+      "1 cup thinly sliced cucumbers",
+      "1/2 cup chopped scallions",
+      "1/2 cup chopped cilantro",
+      "1/2 cup toasted sesame seeds",
+      "1/4 cup vegetable oil",
+      "2 tbsp rice vinegar",
+      "2 tbsp soy sauce",
+      "1 tbsp honey",
+      "1 tbsp grated ginger",
+      "1 garlic clove, minced"
+    ],
+    "method": "1. Cook soba noodles according to package directions. Drain and rinse under cold water.\n2. In a large mixing bowl, combine soba noodles, napa cabbage, carrots, cucumbers, scallions, cilantro, and sesame seeds.\n3. In a separate bowl, whisk together vegetable oil, rice vinegar, soy sauce, honey, ginger, and garlic.\n4. Pour dressing over salad and toss to combine.\n5. Serve chilled.",
+    "rating": 4.2,
+    "chef_id": 3
+  },
+  {
+    "recipe_id": 11,
+    "name": "Gyoza",
+    "image_url": "https://i.ibb.co/D51GY51/korean-food-kim-bap-steamed-rice-with-vegetables-seaweed.jpg",
+    "ingredients": [
+      "1 lb ground pork",
+      "1 cup finely shredded cabbage",
+      "1/4 cup chopped green onions",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tbsp grated ginger",
+      "2 garlic cloves, minced",
+      "1/4 tsp salt",
+      "1/4 tsp black pepper",
+      "40 gyoza wrappers",
+      "1/2 cup water",
+      "2 tbsp vegetable oil"
+    ],
+    "method": "1. In a large mixing bowl, combine ground pork, cabbage, green onions, soy sauce, sesame oil, ginger, garlic, salt, and pepper.\n2. Place a small spoonful of the mixture in the center of a gyoza wrapper.\n3. Wet the edges of the wrapper with water.\n4. Fold the wrapper in half and press the edges together to seal.\n5. Repeat with the remaining wrappers and filling.\n6. Heat vegetable oil in a large skillet over medium-high heat.\n7. Add gyoza to the skillet and cook for 2-3 minutes or until the bottoms are golden brown.\n8. Add water to the skillet and cover.\n9. Cook for an additional 5-7 minutes or until the water has evaporated and the gyoza are cooked through.",
+    "rating": 4.6,
+    "chef_id": 3
+  },
+  {
+    "recipe_id": 12,
+    "name": "Karaage Chicken",
+    "image_url": "https://i.ibb.co/Wxq6vj0/food-2.png",
+    "ingredients": [
+      "1 lb boneless, skinless chicken thighs",
+      "1/2 cup potato starch",
+      "1/4 cup soy sauce",
+      "1 tbsp sake",
+      "1 tbsp mirin",
+      "2 garlic cloves, minced",
+      "1 tsp grated ginger",
+      "Vegetable oil, for frying"
+    ],
+    "method": "1. Cut chicken thighs into bite-sized pieces.\n2. In a large mixing bowl, whisk together potato starch, soy sauce, sake, mirin, garlic, and ginger.\n3. Add chicken to the bowl and toss to coat.\n4. Heat vegetable oil in a deep fryer or large pot to 350°F.\n5. Working in batches, fry chicken for 4-5 minutes or until golden brown and cooked through.\n6. Drain on paper towels before serving.",
+    "rating": 4.7,
+    "chef_id": 3
+  },
+  {
+    "recipe_id": 13,
+    "name": "Miso Soup",
+    "image_url": "https://i.ibb.co/DfZFK6M/food-1.png",
+    "ingredients": [
+      "4 cups dashi stock",
+      "1/2 cup silken tofu, cut into small cubes",
+      "1/4 cup wakame seaweed",
+      "3 tbsp white miso paste",
+      "2 green onions, thinly sliced"
+    ],
+    "method": "1. In a large pot, bring dashi stock to a simmer over medium heat.\n2. Add tofu and wakame to the pot and simmer for 1-2 minutes.\n3. Remove from heat and whisk in miso paste.\n4. Divide soup into bowls and top with green onions before serving.",
+    "rating": 4.4,
+    "chef_id": 4
+  },
+  {
+    "recipe_id": 14,
+    "name": "Okonomiyaki",
+    "image_url": "https://i.ibb.co/Lhnbvmp/japanese-sushi-with-salmon-caviar.jpg",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/2 tsp baking powder",
+      "1cup dashi stock",
+      "4 eggs",
+      "2 cups shredded cabbage",
+      "1/2 cup chopped green onions",
+      "1/4 cup pickled red ginger",
+      "1/4 cup mayonnaise",
+      "1/4 cup okonomiyaki sauce",
+      "2 tbsp vegetable oil",
+      "2 tbsp butter",
+      "Aonori (dried green seaweed flakes)",
+      "Katsuobushi (bonito flakes)"
+    ],
+    "method": "1. In a large mixing bowl, whisk together flour, baking powder, dashi stock, and eggs.\n2. Add cabbage, green onions, and pickled red ginger to the bowl and stir to combine.\n3. Heat vegetable oil and butter in a large skillet over medium-high heat.\n4. Add the batter to the skillet and cook for 5-7 minutes on each side or until golden brown and cooked through.\n5. Drizzle mayonnaise and okonomiyaki sauce on top of the okonomiyaki and sprinkle with aonori and katsuobushi before serving.",
+    "rating": 4.8,
+    "chef_id": 4
+  },
+  {
+    "recipe_id": 15,
+    "name": "Shrimp Tempura",
+    "image_url": "https://i.ibb.co/s3WRrsB/mixed-sushi-rolls-plate.jpg",
+    "ingredients": [
+      "1 lb large shrimp, peeled and deveined",
+      "1 cup all-purpose flour",
+      "1/2 cup cornstarch",
+      "1 tsp baking powder",
+      "1 tsp salt",
+      "1 cup cold water",
+      "Vegetable oil, for frying"
+    ],
+    "method": "1. In a large mixing bowl, whisk together flour, cornstarch, baking powder, and salt.\n2. Gradually add cold water to the bowl and whisk until smooth.\n3. Heat vegetable oil in a deep fryer or large pot to 375°F.\n4. Dip shrimp in the batter and fry for 2-3 minutes or until golden brown and cooked through.\n5. Drain on paper towels before serving.",
+    "rating": 4.5,
+    "chef_id": 4
+  },
+  {
+    "recipe_id": 16,
+    "name": "Yakisoba",
+    "image_url": "https://i.ibb.co/wp4JC3r/side-view-mix-sushi-rolls-tray-with-ginger-wasabi.jpg",
+    "ingredients": [
+      "8 oz dried yakisoba noodles",
+      "1/2 lb boneless, skinless chicken thighs, cut into small pieces",
+      "1/2 onion, sliced",
+      "1 carrot, julienned",
+      "1/2 cup shredded cabbage",
+      "2 tbsp vegetable oil",
+      "2 tbsp oyster sauce",
+      "2 tbsp soy sauce",
+      "1 tbsp sake",
+      "1 tbsp mirin",
+      "Aonori (dried green seaweed flakes)",
+      "Benishoga (pickled red ginger)"
+    ],
+    "method": "1. Cook yakisoba noodles according to package instructions.\n2. Heat vegetable oil in a large skillet over high heat.\n3. Add chicken, onion, and carrot to the skillet and stir-fry for 3-4 minutes or until the chicken is cooked through.\n4. Add shredded cabbage to the skillet and stir-fry for an additional 1-2 minutes.\n5. Add oyster sauce, soy sauce, sake, and mirin to the skillet and stir-fry for another minute.\n6. Add cooked yakisoba noodles to the skillet and toss to combine.\n7. Divide yakisoba into bowls and sprinkle with aonori and benishoga before serving.",
+    "rating": 4.6,
+    "chef_id": 4
+  }
+]

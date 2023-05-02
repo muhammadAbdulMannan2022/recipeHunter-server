@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Jamie Oliver",
+    "image": "https://i.ibb.co/Y49x3tQ/expressive-young-woman-posing-winter-holidays.jpg",
+    "experience": 10,
+    "numRecipes": 5,
+    "likes": 500000
+  },
+  {
+    "id": 2,
+    "name": "Nigella Lawson",
+    "image": "https://i.ibb.co/cJD9tKT/portrait-happy-male-chef-dressed-uniform.jpg",
+    "experience": 8,
+    "numRecipes": 3,
+    "likes": 300000
+  },
+  {
+    "id": 3,
+    "name": "Gino D'Acampo",
+    "image": "https://i.ibb.co/DptS4q0/happy-young-cook-uniform-holding-salad.jpg",
+    "experience": 12,
+    "numRecipes": 4,
+    "likes": 400000
+  },
+  {
+    "id": 4,
+    "name": "Mary Berry",
+    "image": "https://i.ibb.co/HYMGgCm/portrait-smiling-chef-uniform.jpg",
+    "experience": 5,
+    "numRecipes": 3,
+    "likes": 200000
+  }
+]
