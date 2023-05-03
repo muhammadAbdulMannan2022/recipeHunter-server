@@ -6,7 +6,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 app.use(cors());
 app.get("/", (req, res) => {
-  res.send("Hello ! no data in this root url");
+  res.send("This is root ");
 });
 app.get("/chefs", (req, res) => {
   res.send(chefs);
