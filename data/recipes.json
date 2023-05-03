@@ -295,5 +295,135 @@
     "method": "1. Cook yakisoba noodles according to package instructions.\n2. Heat vegetable oil in a large skillet over high heat.\n3. Add chicken, onion, and carrot to the skillet and stir-fry for 3-4 minutes or until the chicken is cooked through.\n4. Add shredded cabbage to the skillet and stir-fry for an additional 1-2 minutes.\n5. Add oyster sauce, soy sauce, sake, and mirin to the skillet and stir-fry for another minute.\n6. Add cooked yakisoba noodles to the skillet and toss to combine.\n7. Divide yakisoba into bowls and sprinkle with aonori and benishoga before serving.",
     "rating": 4.6,
     "chef_id": 4
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 1,
+    "name": "Sushi Rolls",
+    "image_url": "https://i.ibb.co/Wxq6vj0/food-2.png",
+    "ingredients": [
+      "2 cups sushi rice",
+      "2 cups water",
+      "1/4 cup rice vinegar",
+      "2 tbsp sugar",
+      "1 tsp salt",
+      "4-6 sheets of nori",
+      "Assorted fillings (such as avocado, cucumber, crab, shrimp, or tuna)"
+    ],
+    "method": "1. Rinse the sushi rice in cold water until the water runs clear.\n2. Combine the rice and water in a saucepan and bring to a boil.\n3. Reduce heat to low and cover the pan. Simmer for 20 minutes.\n4. Remove the pan from heat and let it sit for 10 minutes.\n5. In a small bowl, combine the rice vinegar, sugar, and salt. Heat the mixture in the microwave until the sugar dissolves.\n6. Spread the cooked rice in a large, shallow dish. Pour the vinegar mixture over the rice and fold it in with a spatula.\n7. Lay a sheet of nori on a bamboo mat. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top.\n8. Arrange the fillings in a line across the center of the rice.\n9. Roll up the sushi tightly, using the bamboo mat to help you.\n10. Slice the sushi into 1-inch pieces and serve with soy sauce and wasabi.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 2,
+    "name": "Miso Soup",
+    "image_url": "https://i.ibb.co/DfZFK6M/food-1.png",
+    "ingredients": [
+      "4 cups dashi stock",
+      "1/4 cup miso paste",
+      "1/2 block of firm tofu, cut into small cubes",
+      "2-3 green onions, sliced thinly",
+      "1 sheet of nori, cut into small strips"
+    ],
+    "method": "1. In a medium saucepan, bring the dashi stock to a boil.\n2. Reduce the heat to low and whisk in the miso paste until it is fully dissolved.\n3. Add the tofu and green onions to the soup and simmer for 2-3 minutes.\n4. Serve the soup hot, garnished with nori strips.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 3,
+    "name": "Chicken Teriyaki",
+    "image_url": "https://i.ibb.co/Lhnbvmp/japanese-sushi-with-salmon-caviar.jpg",
+    "ingredients": [
+      "1 lb boneless, skinless chicken thighs",
+      "1/2 cup soy sauce",
+      "1/4 cup mirin",
+      "1/4 cup sake",
+      "2 tbsp brown sugar",
+      "2 cloves garlic, minced",
+      "1 inch piece of ginger, peeled and grated"
+    ],
+    "method": "1. In a small saucepan, combine the soy sauce, mirin, sake, brown sugar, garlic, and ginger. Heat the mixture over medium heat, stirring occasionally, until the sugar dissolves.\n2. Remove the pan from heat and let the sauce cool.\n3. Place the chicken thighs in a large bowl or resealable bag. Pour the cooled sauce over the chicken and let it marinate for at least 30 minutes, or up to 8 hours.\n4. Heat a grill or grill pan over medium-high heat.\n5. Remove the chicken from the marinade and pat it dry with paper towels.\n6. Grill the chicken for 5-7 minutes per side, or until the internal temperature reaches 165°F.\n7. Serve the chicken teriyaki hot, garnished with sliced green onions and sesame seeds.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 4,
+    "name": "Tempura Shrimp",
+    "image_url": "https://i.ibb.co/s3WRrsB/mixed-sushi-rolls-plate.jpg",
+    "ingredients": [
+      "1 lb medium-sized shrimp, peeled and deveined",
+      "1 cup all-purpose flour",
+      "1/2 cup cornstarch",
+      "1 tsp baking powder",
+      "1 cup cold water",
+      "Vegetable oil, for frying"
+    ],
+    "method": "1. In a large mixing bowl, whisk together the flour, cornstarch, and baking powder.\n2. Gradually pour in the cold water, whisking constantly, until the batter is smooth.\n3. Heat about 2 inches of vegetable oil in a large, heavy-bottomed pot over medium-high heat.\n4. Dip each shrimp into the batter, shaking off any excess, and carefully place it in the hot oil.\n5. Fry the shrimp in batches for 2-3 minutes, or until the batter is golden brown and crispy.\n6. Use a slotted spoon to transfer the shrimp to a paper towel-lined plate to drain off any excess oil.\n7. Serve the tempura shrimp hot, with soy sauce for dipping.",
+    "rating": 4.6
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 1,
+    "name": "Sushi Rolls",
+    "image_url": "https://i.ibb.co/Wxq6vj0/food-2.png",
+    "ingredients": [
+      "2 cups sushi rice",
+      "2 cups water",
+      "1/4 cup rice vinegar",
+      "2 tbsp sugar",
+      "1 tsp salt",
+      "4-6 sheets of nori",
+      "Assorted fillings (such as avocado, cucumber, crab, shrimp, or tuna)"
+    ],
+    "method": "1. Rinse the sushi rice in cold water until the water runs clear.\n2. Combine the rice and water in a saucepan and bring to a boil.\n3. Reduce heat to low and cover the pan. Simmer for 20 minutes.\n4. Remove the pan from heat and let it sit for 10 minutes.\n5. In a small bowl, combine the rice vinegar, sugar, and salt. Heat the mixture in the microwave until the sugar dissolves.\n6. Spread the cooked rice in a large, shallow dish. Pour the vinegar mixture over the rice and fold it in with a spatula.\n7. Lay a sheet of nori on a bamboo mat. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top.\n8. Arrange the fillings in a line across the center of the rice.\n9. Roll up the sushi tightly, using the bamboo mat to help you.\n10. Slice the sushi into 1-inch pieces and serve with soy sauce and wasabi.",
+    "rating": 4.8
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 2,
+    "name": "Miso Soup",
+    "image_url": "https://i.ibb.co/DfZFK6M/food-1.png",
+    "ingredients": [
+      "4 cups dashi stock",
+      "1/4 cup miso paste",
+      "1/2 block of firm tofu, cut into small cubes",
+      "2-3 green onions, sliced thinly",
+      "1 sheet of nori, cut into small strips"
+    ],
+    "method": "1. In a medium saucepan, bring the dashi stock to a boil.\n2. Reduce the heat to low and whisk in the miso paste until it is fully dissolved.\n3. Add the tofu and green onions to the soup and simmer for 2-3 minutes.\n4. Serve the soup hot, garnished with nori strips.",
+    "rating": 4.5
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 3,
+    "name": "Chicken Teriyaki",
+    "image_url": "https://i.ibb.co/Lhnbvmp/japanese-sushi-with-salmon-caviar.jpg",
+    "ingredients": [
+      "1 lb boneless, skinless chicken thighs",
+      "1/2 cup soy sauce",
+      "1/4 cup mirin",
+      "1/4 cup sake",
+      "2 tbsp brown sugar",
+      "2 cloves garlic, minced",
+      "1 inch piece of ginger, peeled and grated"
+    ],
+    "method": "1. In a small saucepan, combine the soy sauce, mirin, sake, brown sugar, garlic, and ginger. Heat the mixture over medium heat, stirring occasionally, until the sugar dissolves.\n2. Remove the pan from heat and let the sauce cool.\n3. Place the chicken thighs in a large bowl or resealable bag. Pour the cooled sauce over the chicken and let it marinate for at least 30 minutes, or up to 8 hours.\n4. Heat a grill or grill pan over medium-high heat.\n5. Remove the chicken from the marinade and pat it dry with paper towels.\n6. Grill the chicken for 5-7 minutes per side, or until the internal temperature reaches 165°F.\n7. Serve the chicken teriyaki hot, garnished with sliced green onions and sesame seeds.",
+    "rating": 4.7
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 4,
+    "name": "Tempura Shrimp",
+    "image_url": "https://i.ibb.co/s3WRrsB/mixed-sushi-rolls-plate.jpg",
+    "ingredients": [
+      "1 lb medium-sized shrimp, peeled and deveined",
+      "1 cup all-purpose flour",
+      "1/2 cup cornstarch",
+      "1 tsp baking powder",
+      "1 cup cold water",
+      "Vegetable oil, for frying"
+    ],
+    "method": "1. In a large mixing bowl, whisk together the flour, cornstarch, and baking powder.\n2. Gradually pour in the cold water, whisking constantly, until the batter is smooth.\n3. Heat about 2 inches of vegetable oil in a large, heavy-bottomed pot over medium-high heat.\n4. Dip each shrimp into the batter, shaking off any excess, and carefully place it in the hot oil.\n5. Fry the shrimp in batches for 2-3 minutes, or until the batter is golden brown and crispy.\n6. Use a slotted spoon to transfer the shrimp to a paper towel-lined plate to drain off any excess oil.\n7. Serve the tempura shrimp hot, with soy sauce for dipping.",
+    "rating": 4.6
   }
 ]

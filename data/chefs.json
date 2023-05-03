@@ -30,5 +30,21 @@
     "experience": 5,
     "numRecipes": 3,
     "likes": 200000
+  },
+  {
+    "id": 5,
+    "name": "Jamie Oliver",
+    "image": "https://i.ibb.co/Y49x3tQ/expressive-young-woman-posing-winter-holidays.jpg",
+    "experience": 10,
+    "numRecipes": 5,
+    "likes": 500000
+  },
+  {
+    "id": 6,
+    "name": "Nigella Lawson",
+    "image": "https://i.ibb.co/cJD9tKT/portrait-happy-male-chef-dressed-uniform.jpg",
+    "experience": 8,
+    "numRecipes": 3,
+    "likes": 300000
   }
 ]

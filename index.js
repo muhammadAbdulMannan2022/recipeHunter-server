@@ -17,7 +17,11 @@ app.get("/chefs/:id", (req, res) => {
     (recipe) => recipe.chef_id.toString() === id
   );
   const chefIs = chefs.find((chef) => chef.id.toString() === id);
-  res.send([recipesOfTheChef, chefIs]);
+  if (recipesOfTheChef.length === 0) {
+    res.send([[], {}]);
+  } else {
+    res.send([recipesOfTheChef, chefIs]);
+  }
 });
 app.listen(port, () => {
   console.log("Server listening on port " + port + " !");
