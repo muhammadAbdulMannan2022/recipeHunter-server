@@ -8,9 +8,11 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send("This is root ");
 });
+// for handle get request in /chefs route. it will send chefs data
 app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
+// to this /chefs/chefsid route come with a id and sent data of all recepe that have this id
 app.get("/chefs/:id", (req, res) => {
   const id = req.params.id;
   const recipesOfTheChef = recipes.filter(
